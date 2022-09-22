@@ -1,0 +1,306 @@
+.1_54 { 
+	overflow:hidden;
+}
+.e1_54 { 
+	width:1024px;
+	height:1440px;
+	position:absolute;
+	background-image:url(images/crear_modificar_piloto.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_55 { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.20000000298023224);
+	width:974px;
+	height:714px;
+	position:absolute;
+	left:25px;
+	top:265px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_56 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1024px;
+	height:161px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-radius:Symbol(figma.mixed)px;
+}
+.e1_57 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1024px;
+	height:156px;
+	position:absolute;
+	left:2px;
+	top:1440px;
+	border-radius:Symbol(figma.mixed)px;
+}
+.e1_58 { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.20000000298023224);
+	width:974px;
+	height:714px;
+	position:absolute;
+	left:25px;
+	top:265px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_59 { 
+	color:rgba(0, 0, 0, 1);
+	width:66px;
+	height:17px;
+	position:absolute;
+	left:69px;
+	top:354px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_60 { 
+	color:rgb(6, 0, 0);
+	width:182px;
+	height:28px;
+	position:absolute;
+	left:421px;
+	top:199px;
+	font-family:Candal;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e1_61 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:387px;
+}
+.e1_62 { 
+	color:rgba(0, 0, 0, 1);
+	width:59px;
+	height:17px;
+	position:absolute;
+	left:505px;
+	top:635px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_63 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:501px;
+	top:668px;
+}
+.e1_64 { 
+	color:rgba(0, 0, 0, 1);
+	width:51px;
+	height:17px;
+	position:absolute;
+	left:67px;
+	top:636px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_65 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:315px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:668px;
+}
+.e1_66 { 
+	color:rgba(0, 0, 0, 1);
+	width:116px;
+	height:17px;
+	position:absolute;
+	left:66px;
+	top:720px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_67 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:749px;
+}
+.e1_68 { 
+	color:rgba(0, 0, 0, 1);
+	width:82px;
+	height:17px;
+	position:absolute;
+	left:504px;
+	top:720px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_69 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:20px;
+	position:absolute;
+	left:504px;
+	top:749px;
+}
+.e1_70 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:78px;
+	top:900px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.1_70 { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.e1_71 { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:89px;
+	top:914px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_72 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:251px;
+	top:902px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.1_72 { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.e1_73 { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:262px;
+	top:916px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_74 { 
+	color:rgba(0, 0, 0, 1);
+	width:61px;
+	height:17px;
+	position:absolute;
+	left:65px;
+	top:558px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_75 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:585px;
+}
+.e1_76 { 
+	color:rgba(0, 0, 0, 1);
+	width:66px;
+	height:17px;
+	position:absolute;
+	left:65px;
+	top:423px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_77 { 
+	color:rgba(0, 0, 0, 1);
+	width:92px;
+	height:17px;
+	position:absolute;
+	left:63px;
+	top:490px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e1_78 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:517px;
+}
+.e1_79 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:455px;
+}
+.e1_80 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(1.0000000591389835, 46.000001057982445, 61.00000016391277, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:522px;
+	top:336px;
+	border-radius:Symbol(figma.mixed)px;
+	background-image:url(images/piloto.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

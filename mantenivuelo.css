@@ -1,0 +1,306 @@
+.3_81 { 
+	overflow:hidden;
+}
+.e3_81 { 
+	width:1024px;
+	height:1440px;
+	position:absolute;
+	background-image:url(images/crear_modificar_pilot.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_82 { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.20000000298023224);
+	width:974px;
+	height:714px;
+	position:absolute;
+	left:25px;
+	top:265px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e3_83 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1024px;
+	height:161px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-radius:Symbol(figma.mixed)px;
+}
+.e3_84 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1024px;
+	height:156px;
+	position:absolute;
+	left:-11px;
+	top:1440px;
+	border-radius:Symbol(figma.mixed)px;
+}
+.e3_85 { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.20000000298023224);
+	width:974px;
+	height:714px;
+	position:absolute;
+	left:25px;
+	top:265px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e3_86 { 
+	color:rgba(0, 0, 0, 1);
+	width:96px;
+	height:17px;
+	position:absolute;
+	left:71px;
+	top:355px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_87 { 
+	color:rgba(255, 2.1249979734420776, 2.1249979734420776, 1);
+	width:182px;
+	height:28px;
+	position:absolute;
+	left:421px;
+	top:199px;
+	font-family:Candal;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e3_88 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:387px;
+}
+.e3_89 { 
+	color:rgba(0, 0, 0, 1);
+	width:111px;
+	height:17px;
+	position:absolute;
+	left:501px;
+	top:708px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_90 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:501px;
+	top:741px;
+}
+.e3_91 { 
+	color:rgba(0, 0, 0, 1);
+	width:104px;
+	height:17px;
+	position:absolute;
+	left:66px;
+	top:709px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_92 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:315px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:741px;
+}
+.e3_93 { 
+	color:rgba(0, 0, 0, 1);
+	width:51px;
+	height:17px;
+	position:absolute;
+	left:71px;
+	top:793px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_94 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:822px;
+}
+.e3_95 { 
+	color:rgba(0, 0, 0, 1);
+	width:46px;
+	height:17px;
+	position:absolute;
+	left:71px;
+	top:640px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_96 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:20px;
+	position:absolute;
+	left:71px;
+	top:669px;
+}
+.e3_97 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:78px;
+	top:900px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.3_97 { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.e3_98 { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:89px;
+	top:914px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_99 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:251px;
+	top:902px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.3_99 { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.e3_100 { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:262px;
+	top:916px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_101 { 
+	color:rgba(0, 0, 0, 1);
+	width:56px;
+	height:17px;
+	position:absolute;
+	left:67px;
+	top:558px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_102 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:585px;
+}
+.e3_103 { 
+	color:rgba(0, 0, 0, 1);
+	width:42px;
+	height:17px;
+	position:absolute;
+	left:68px;
+	top:423px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_104 { 
+	color:rgba(0, 0, 0, 1);
+	width:17px;
+	height:17px;
+	position:absolute;
+	left:68px;
+	top:490px;
+	font-family:Candal;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e3_105 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:517px;
+}
+.e3_106 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:20px;
+	position:absolute;
+	left:69px;
+	top:455px;
+}
+.e3_107 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(1.0000000591389835, 46.000001057982445, 61.00000016391277, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:527px;
+	top:369px;
+	border-radius:Symbol(figma.mixed)px;
+	background-image:url(images/administrador.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
