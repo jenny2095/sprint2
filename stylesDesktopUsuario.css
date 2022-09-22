@@ -1,0 +1,79 @@
+.body { 
+	width:1440px;
+	height:1440px;
+	background-position:center center;
+	background-image:url(assets/imgs/images/fondo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.cuadroCabecera { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1440px;
+	height:161px;
+	position:-ms-page;
+	left:0px;
+	top:0px;
+	border-radius:0px 0px 25px 25px;
+}
+.cuadroPie { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1440px;
+	height:156px;
+	position:relative;
+	left:0px;
+	top:1120px;
+	border-radius:0px 0px 25px 25px;
+	transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.botonRegistrarse { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:255px;
+	top:385px;
+	border-radius:100px 0px;
+	background-image:url(assets/imgs/images/registroPasajero.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.botonIngresar { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:885px;
+	top:385px;
+	border-radius:100px 0px;
+	background-image:url(assets/imgs/images/ingresoPasajero.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.registrarse { 
+	color:rgba(0, 0, 0, 0.767);
+	width:280px;
+	height:42px;
+	position:absolute;
+	left:284;
+	top:680px;
+	font-family:Candal;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.ingresar { 
+	color:rgba(0, 0, 0, 0.767);
+	width:280px;
+	height:42px;
+	position:absolute;
+	left:948px;
+	top:680px;
+	font-family:Candal;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}

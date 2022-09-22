@@ -1,0 +1,133 @@
+.body { 
+	width:1440px;
+	height:1440px;
+	background-position: center center;
+	background-image: url(assets/imgs/images/fondo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.cuadroCabecera { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1440px;
+	height:161px;
+	position:-ms-page;
+	left:0px;
+	top:0px;
+	border-radius:0px 0px 25px 25px;
+}
+.cuadroPie { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1440px;
+	height:156px;
+	position:relative;
+	left:0px;
+	top:1120px;
+	border-radius:0px 0px 25px 25px;
+	transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.botonModPasajeros { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:136px;
+	top:385px;
+	border-radius:100px 0px;
+	background-image:url(assets/imgs/images/pasajeros.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.botonModPiloto { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:582px;
+	top:385px;
+	border-radius:100px 0px;
+	background-image:url(assets/imgs/images/piloto.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.botonModVuelo { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.39453834295273, 165.9571436047554, 207.1875, 0.5);
+	width:275px;
+	height:249px;
+	position:absolute;
+	left:991px;
+	top:385px;
+	border-radius:100px 0px;
+	background-image:url(assets/imgs/images/vuelo.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.cmUsuario { 
+	color:rgba(0, 0, 0, 0.767);
+	width:291px;
+	height:42px;
+	position:absolute;
+	left:128px;
+	top:680px;
+	font-family:Candal;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.cmPiloto { 
+	color:rgba(0, 0, 0, 0.767);
+	width:291px;
+	height:42px;
+	position:absolute;
+	left:555px;
+	top:680px;
+	font-family:Candal;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.cmVuelo { 
+	color:rgba(0, 0, 0, 0.767);
+	width:291px;
+	height:42px;
+	position:absolute;
+	left:982px;
+	top:680px;
+	font-family:Candal;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+
+.botonSalir { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:662px;
+	top:870px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.botonSalir { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.salir { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:673px;
+	top:884px;
+	font-family:Arial;
+	text-align:center;
+	font-size:17px;
+	letter-spacing:0;
+}

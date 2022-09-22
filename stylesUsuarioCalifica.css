@@ -1,0 +1,279 @@
+.body { 
+	width:1024px;
+	height:1440px;
+	background-position:center center;
+	background-image:url(assets/imgs/images/fondo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.cuadroCabecera { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1024px;
+	height:161px;
+	position:absolute;
+	left:10px;
+	top:0px;
+	border-radius:0px 0px 25px 25px;
+}
+.cuadroPie { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(127.5, 123.78125354647636, 123.78125354647636, 0.20000000298023224);
+	width:1024px;
+	height:156px;
+	position:absolute;
+	left:8px;
+	top:1300px;
+	border-radius: 0px 0px 25px 25px;
+	transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.titulo { 
+	color:rgb(0, 0, 0);
+	width:258px;
+	height:31px;
+	position:absolute;
+	left:383px;
+	top:198px;
+	font-family:Arial;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.cuadroCodigoVuelo { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.30000001192092896);
+	width:974px;
+	height:201px;
+	position:absolute;
+	left:25px;
+	top:265px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.codigoVuelo { 
+	color:rgba(0, 0, 0, 1);
+	width:115px;
+	height:17px;
+	position:absolute;
+	left:394px;
+	top:328px;
+	font-family:Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.TextBoxCodigoVuelo { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:150px;
+	height:20px;
+	position:absolute;
+	left:595px;
+	top:325px;
+}
+.botonConsultar { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:454px;
+	top:384px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.botonConsultar { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.consultar { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:465px;
+	top:398px;
+	font-family:Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.cuadroDatosVuelo { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.30000001192092896);
+	width:974px;
+	height:201px;
+	position:absolute;
+	left:25px;
+	top:475px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.datosVuelo { 
+	color:rgba(255, 2.1249979734420776, 2.1249979734420776, 1);
+	width:258px;
+	height:31px;
+	position:absolute;
+	left:381px;
+	top:498px;
+	font-family:Arial;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.piloto { 
+	color:rgba(0, 0, 0, 1);
+	width:42px;
+	height:17px;
+	position:absolute;
+	left:100px;
+	top:575px;
+	font-family:Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.textBoxPiloto { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:150px;
+	height:20px;
+	position:absolute;
+	left:100px;
+	top:598px;
+}
+.avion { 
+	color:rgba(0, 0, 0, 1);
+	width:42px;
+	height:17px;
+	position:absolute;
+	left:428px;
+	top:577px;
+	font-family:Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.textBoxAvion { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:150px;
+	height:20px;
+	position:absolute;
+	left:428px;
+	top:598px;
+}
+.cuadroCalifica { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(35.00000171363354, 166.00000530481339, 207.00000286102295, 0.30000001192092896);
+	width:974px;
+	height:477px;
+	position:absolute;
+	left:25px;
+	top:720px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.calificaVuelo { 
+	color:rgba(255, 2.1249979734420776, 2.1249979734420776, 1);
+	width:258px;
+	height:31px;
+	position:absolute;
+	left:380px;
+	top:731px;
+	font-family:Arial;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.comentario { 
+	color:rgba(0, 0, 0, 1);
+	width:82px;
+	height:17px;
+	position:absolute;
+	left:45px;
+	top:915px;
+	font-family:Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.textBoxComentario { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:934px;
+	height:230px;
+	position:absolute;
+	left:45px;
+	top:942px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.botonAceptar { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(174.25000101327896, 174.25000101327896, 174.25000101327896, 1) 0%,rgba(235.89160054922104, 235.89160054922104, 235.89160054922104, 0.4375) 45.3125%,rgba(138.1250050663948, 138.1250050663948, 138.1250050663948, 0) 100%) ;
+	width:115px;
+	height:43px;
+	position:absolute;
+	left:84px;
+	top:1231px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.botonAceptar { 
+	border:1px solid rgba(168.93750607967377, 165.41796773672104, 165.41796773672104, 1);
+}
+.aceptar { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:95px;
+	top:1245px;
+	font-family:Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:0;
+}
+.container {
+	max-width: 900px;
+	max-height: 200px;
+	margin: auto auto;
+	background: #fff;
+	border-radius: 8px;
+	position: relative;
+	top: 940px;
+}
+.comment {
+	display: block;
+	transition: all 1s;
+}
+.commentClicked {
+	min-height: 0px;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	padding: 5px 10px
+}
+.container textarea {
+	width: 100%;
+	max-height: 200px;
+	border: none;
+	background: #E8E8E8;
+	padding: 5px 10px;
+	height: 50%;
+	border-radius: 5px 5px 0px 0px;
+	border-bottom: 2px solid #016BA8;
+	transition: all 0.5s;
+	margin-top: 2px;
+}
